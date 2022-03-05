@@ -67,40 +67,16 @@ body{
     -o-border-radius: 10px;
     margin-bottom: 50px;
 }
-.box-botom1{
-    border: none;
-    box-shadow: 10px 5px 20px lightblue;
-    padding:30px;
-    margin-left: 200px;
-    border-radius: 20px;
-    -webkit-border-radius: 20px;
-    -moz-border-radius: 20px;
-    -ms-border-radius: 20px;
-    -o-border-radius: 20px;
-}
-.box-botom2{
+.imgbox{
     border: none;
     box-shadow: 10px 5px 20px lightblue;
     margin-top: 10px;
     margin-bottom: 30px;
     margin-left: 30px;
-    padding: 30px;
+    padding: 10px;
     border-radius: 20px;
     -webkit-border-radius: 20px;
     -moz-border-radius: 20px;
     -ms-border-radius: 20px;
     -o-border-radius: 20px;
-}
-.wd{
-    width: 200px;
-    height: 200px;
-}
-.tx{
-    text-align: center;
-}
-.tx2{
-    text-align: center;
-}
-.end{
-    
 }
